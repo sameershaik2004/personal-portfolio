@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/c6608a02ed.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Header Section -->
+    <header id="header">
+        <div class="container">
+            <nav>
+                <img src="Images/logo.jpg" alt="Logo" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fa-solid fa-xmark close" onclick="closemenu()"></i>
+                </ul>
+                <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Software and Web Developer</p>
+                <h1>Hi, I'm <span>Sameer Hassan Shaik</span><br>From India</h1>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="Images/user.jpg" alt="User Image">
+                </div> 
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p class="para-text">Proficient in a variety of programming languages including C, Core Python, and Core Java, with expertise in front-end web development. Experienced in designing, developing, and maintaining responsive, user-friendly, and visually appealing websites using modern web development frameworks and tools.</p>
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('Skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('Experience')">Experience</p> 
+                        <p class="tab-links" onclick="opentab('Education')">Education</p> 
+                    </div>
+                    <div class="tab-contents active-tab" id="Skills">
+                        <ul>
+                            <li><span>C, Python, Java Programming:</span> Proficient in Programming languages and Data Structures</li>
+                            <li><span>Web Development:</span> Proficient in Building Websites and Web Applications</li>
+                            <li><span>App Development:</span> Developing Apps through Android Studio Using Java</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="Experience">
+                        <ul>
+                            <li><span>Internship at BasketHunt Pvt Ltd:</span> Worked on the Search Engine of the company and served as an IT Trainer.</li>
+                            <li><span>Internship at ReadyCoders Pvt Ltd:</span> Worked on building websites for company clients.</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="Education">
+                        <ul>
+                            <li><span>Bachelor of Technology in Computer Science and Engineering:</span> KKR and KSR Institute of Technology, 2025</li>
+                            <li><span>Intermediate:</span> Sri Chaitanya Junior College, 2021</li>
+                            <li><span>10th:</span> Sri Chaitanya CBSE School, 2019</li>
+                        </ul>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fa-solid fa-code"></i>
+                    <h2>Web Design</h2>
+                    <p>Proficient in designing, developing, and maintaining responsive, user-friendly, and visually appealing websites.</p>
+                    <a href="#">Learn More</a>
+                </div> 
+                <div>
+                    <i class="fa-solid fa-globe"></i>
+                    <h2>UI/UX Design</h2>
+                    <p>Expert in creating intuitive and visually compelling user interfaces and experiences.</p>
+                    <a href="#">Learn More</a>
+                </div> 
+                <div>
+                    <i class="fa-brands fa-uncharted"></i>
+                    <h2>Software Design</h2>
+                    <p>Skilled in developing software solutions tailored to client needs, focusing on efficiency and scalability.</p>
+                    <a href="#">Learn More</a>
+                </div> 
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio">
+        <div class="container">
+            <h1 class="sub-title">My Work</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="Images/work-1.png" alt="Social Media App">
+                    <div class="layer">
+                        <h3>Dino Front End Website</h3>
+                        <p>This Application shows the contents of different type of dinosaur's.</p>
+                        <a href="projects/dino/index.html"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="Images/work-2.png" alt="Music App">
+                    <div class="layer">
+                        <h3>Music App</h3>
+                        <p>A platform that connects you with music lovers and creators globally.</p>
+                        <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="Images/work-3.png" alt="Online Shopping App">
+                    <div class="layer">
+                        <h3>Online Shopping App</h3>
+                        <p>Experience seamless shopping with this user-friendly app.</p>
+                        <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="btn">See More</a>
+        </div>
+    </section>
+
+<!-- ------------Contact-------- -->
+
+ <section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left">
+              <h1 class="sub-title">Contact Me</h1>  
+              <p><i class="fa-solid fa-paper-plane"></i> sameerhassanshaik@gmail.com</p>
+              <p><i class="fa-solid fa-phone"></i> Phone: +91 8143840371</p>
+
+              <div class="Social-icons">
+                <a href="https://www.facebook.com/sameer.shaik.16906?mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://www.instagram.com/mr._.shaik.___/?igsh=am00aDd4cDA5ajZk"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/shaik-sameer-hassan-23525a25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://github.com/sameershaik2004"><i class="fa-brands fa-github"></i></a>
+              </div>
+              <a href="SameerResume.pdf" download class="btn btn2">Download CV</a>
+            </div>
+            <div class="contact-right">
+                <form name="submit-to-google-sheet">
+                    <input type = "text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                    <textarea name = "Message" rows="6" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">submit</button>
+                </form>
+                <span id="msg"></span>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>copyright © <i class="fa-solid fa-meteor"></i>Sameer Hassan Shaik</p>
+    </div>
+ </section>
+
+    <!-- JavaScript for Tab Navigation -->
+    <script>
+        function opentab(tabname) {
+            var tablinks = document.getElementsByClassName("tab-links");
+            var tabcontents = document.getElementsByClassName("tab-contents");
+
+            Array.from(tablinks).forEach(link => link.classList.remove("active-link"));
+            Array.from(tabcontents).forEach(content => content.classList.remove("active-tab"));
+
+            document.getElementById(tabname).classList.add("active-tab");
+            event.currentTarget.classList.add("active-link");
+        }
+    </script>
+     <script>
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu(){
+            sidemenu.classList.add("active");
+        }
+        function closemenu(){
+            sidemenu.classList.remove("active");
+        }
+    </script>
+
+<script>
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwobbF4zsGWG_Pcc7VyulvP8Ka6xoKYrRjUYPExB0_Zp8bW2mTOU0exnEchfL8Hk4rx/exec';
+const form = document.forms['submit-to-google-sheet'];
+const msg = document.getElementById("msg");
+
+form.addEventListener('submit', e => {
+  e.preventDefault();
+  fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+    .then(response => {
+      // Log the response for debugging
+      console.log('Success:', response);
+
+      msg.innerHTML = "Message Sent Successfully.";
+      setTimeout(function(){
+          msg.innerHTML = "";
+      }, 5000);
+      form.reset();
+    })
+    .catch(error => {
+      console.error('Error!', error.message);
+      // Display error message in case of failure
+      msg.innerHTML = "Failed to send message. Please try again.";
+    });
+});
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,1531 @@
+.bg-icon {
+  position: absolute;
+  top: calc(50% - 512px);
+  left: calc(50% - 720px);
+  width: 1870px;
+  height: 1069px;
+  object-fit: cover;
+}
+.nam-fermentum-posuere {
+  margin: 0;
+}
+.texto-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+
+.men a {
+  color: orange; /* Change to the desired color */
+  text-decoration: none; /* Optional: Remove underline from links */
+}
+.learn-about-him {
+  color: white; /* Change to the desired color */
+  /* Additional styles if needed */
+}
+.texto,
+.texto2 {
+  position: absolute;
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  display: flex;
+  width: 469px;
+}
+.texto {
+  top: calc(50% + 26px);
+  left: 1500px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto2 {
+  top: calc(50% + 89px);
+  left: 1800px;
+  align-items: center;
+}
+.bg-icon1 {
+  position: absolute;
+  top: 1202px;
+  right: -156px;
+  width: 1948px;
+  height: 1113px;
+  object-fit: cover;
+}
+.desktop-7-child {
+  position: absolute;
+  bottom: -1266px;
+  left: calc(50% - 616px);
+  background: linear-gradient(180.09deg, transparent, #000);
+  width: 1505px;
+  height: 1045px;
+}
+.bg2-icon,
+.stones2-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.bg2-icon {
+  top: 1198px;
+  left: -151px;
+  width: 1820px;
+  height: 1340px;
+}
+.stones2-icon {
+  top: 1350px;
+  left: calc(50% + 1415px);
+  width: 2975px;
+  height: 1001px;
+}
+.desktop-7-item {
+  position: absolute;
+  top: 1514px;
+  left: -192px;
+  background: linear-gradient(180deg, transparent 20.31%, #000 85.42%);
+  width: 1824px;
+  height: 1129px;
+}
+.nam-fermentum-posuere1 {
+  display: none;
+  align-items: flex-end;
+  width: 319px;
+}
+.learn-about-him,
+.nam-fermentum-posuere1 {
+  position: relative;
+  line-height: 22px;
+}
+.botn {
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-bebas-neue);
+}
+.nam-fermentum-posuere-est-ut-t-parent {
+  position: absolute;
+  top: 1673px;
+  left: 386px;
+  width: 319px;
+  height: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  opacity: 0;
+  font-family: var(--font-be-vietnam-pro);
+}
+.gallery-child {
+  position: relative;
+  border-radius: var(--br-xs);
+  width: 120px;
+  height: 115px;
+  object-fit: cover;
+}
+.div {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  width: 83px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.wrapper {
+  border-radius: var(--br-xs);
+  width: 120px;
+  height: 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(./public/frame-4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.gallery,
+.texto1,
+.texto21 {
+  position: absolute;
+  display: flex;
+}
+.gallery {
+  top: 2233px;
+  left: 250px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.texto1,
+.texto21 {
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  width: 469px;
+}
+.texto1 {
+  top: calc(50% + 37px);
+  left: 1900px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto21 {
+  top: calc(50% + 100px);
+  left: 1650px;
+  align-items: center;
+}
+.age {
+  margin: 0;
+  color: var(--color-white);
+}
+.titulo {
+  position: absolute;
+  top: calc(50% + 604px);
+  left: 759px;
+  font-size: var(--font-size-151xl);
+  line-height: 145px;
+  display: flex;
+  align-items: flex-end;
+  width: 480px;
+  color: var(--color-orange);
+}
+.group-icon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.tablermeat {
+  background-color: var(--color-orange);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm);
+}
+.carnivorous {
+  position: relative;
+  line-height: 26px;
+}
+.carnivorus,
+.cretaceus,
+.meters-long {
+  position: absolute;
+  top: 1756px;
+  left: 918px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.cretaceus,
+.meters-long {
+  left: 1193px;
+}
+.cretaceus {
+  top: 1922px;
+  left: 759px;
+}
+.vector-icon {
+  position: relative;
+  width: 32px;
+  height: 36px;
+}
+.texto22,
+.texto3,
+.tons {
+  position: absolute;
+  display: flex;
+}
+.tons {
+  top: 1922px;
+  left: 1034px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.texto22,
+.texto3 {
+  left: 759px;
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  width: 469px;
+}
+.texto3 {
+  top: calc(50% + 1103px);
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto22 {
+  top: calc(50% + 1202px);
+  align-items: center;
+}
+.stones-icon {
+  position: absolute;
+  top: 457px;
+  left: 0;
+  width: 1525px;
+  height: 968px;
+  object-fit: cover;
+}
+.desktop-7-inner,
+.ellipse-div {
+  position: absolute;
+  top: 756px;
+  left: 473px;
+  border-radius: 50%;
+  background: linear-gradient(184.02deg, transparent, #000);
+  filter: blur(25px);
+  width: 203px;
+  height: 45px;
+  opacity: 0.85;
+}
+.ellipse-div {
+  left: 719px;
+}
+.component-111-icon {
+  position: absolute;
+  top: calc(50% - 346px);
+  left: calc(50% - 349px);
+  width: 736px;
+  height: 736px;
+  overflow: hidden;
+  animation: blink 2s linear infinite;
+}
+.component-11-icon {
+  position: relative;
+  top: calc(50% );
+  left: calc(50% );
+  width: 717px;
+  height: 717px;
+  overflow: hidden;
+  animation: blink 2s linear infinite;
+}
+.component-1-icon {
+  position: absolute;
+  top: calc(54% - 346px);
+  left: calc(53% - 349px);
+  width: 657px;
+  height: 657px;
+  overflow: hidden;
+  animation: blink 2s linear infinite;
+}
+@keyframes blink {
+  50%{
+    opacity: 0;
+  }
+  
+}
+.tyrannosaurus-1-icon {
+  position: absolute;
+  top: calc(50% - 232px);
+  left: calc(50% - 272px);
+  width: 551px;
+  height: 551px;
+  object-fit: cover;
+}
+.logo-icon {
+  position: relative;
+  width: 100.3px;
+  height: 75px;
+  object-fit: cover;
+}
+.vector-icon1 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+.men {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0;
+  gap: var(--gap-21xl);
+}
+.group-icon3 {
+  position: relative;
+  width: 22px;
+  height: 22px;
+}
+.botn1,
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.botn1 {
+  background-color: var(--color-orange);
+  padding: var(--padding-mini) var(--padding-11xl);
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-3xl);
+}
+.menu {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1440px;
+  height: 120px;
+  gap: var(--gap-111xl);
+  font-size: var(--font-size-7xl);
+}
+.dino1 {
+  margin: 0;
+  color: var(--color-orange);
+}
+.dino-saurus-age-container {
+  position: absolute;
+  top: 334px;
+  left: 83px;
+  font-size: var(--font-size-151xl);
+  line-height: 130px;
+}
+.desktop-7-child1 {
+  position: absolute;
+  top: 302px;
+  left: 89px;
+  border-radius: 50%;
+  background-color: var(--color-orange);
+  width: 12px;
+  height: 12px;
+}
+.discover-prehistoric-world {
+  position: absolute;
+  top: 296px;
+  left: 110px;
+}
+.nam-fermentum-posuere4 {
+  position: absolute;
+  top: calc(50% - 99px);
+  left: 1038px;
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  display: flex;
+  align-items: flex-end;
+  width: 319px;
+}
+.botn2 {
+  position: absolute;
+  bottom: 414px;
+  left: calc(50% + 318px);
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  font-size: var(--font-size-7xl);
+}
+.desktop-7 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}
+@media screen and (max-width: 1200px) {
+  .menu {
+    flex-direction: row;
+  }
+}
+@media screen and (max-width: 960px) {
+  .menu {
+    flex-direction: column;
+    padding-bottom: 0;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .menu {
+    flex-direction: column;
+    gap: var(--gap-111xl);
+  }
+}
+.bg-icon4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1870px;
+  height: 1069px;
+  object-fit: cover;
+}
+.component-1-icon2 {
+  position: absolute;
+  top: calc(50% - 512px);
+  left: calc(50% - 327px);
+  width: 654px;
+  height: 692px;
+  overflow: hidden;
+  mix-blend-mode: overlay;
+}
+.bg-icon5,
+.stones-icon2 {
+  position: absolute;
+  object-fit: cover;
+}
+.bg-icon5 {
+  top: 417px;
+  right: -508px;
+  width: 1948px;
+  height: 1113px;
+}
+.stones-icon2 {
+  top: 0;
+  left: 0;
+  width: 1525px;
+  height: 968px;
+}
+.desktop-5-child {
+  position: absolute;
+  bottom: 548px;
+  left: calc(50% - 752px);
+  background: linear-gradient(180.09deg, transparent, #000 28.49%);
+  width: 1505px;
+  height: 1241px;
+}
+.bg2-icon2 {
+  position: absolute;
+  top: 158px;
+  left: 0;
+  width: 1820px;
+  height: 1340px;
+  object-fit: cover;
+}
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: -45px;
+  left: 476px;
+  border-radius: 50%;
+  background: linear-gradient(184.02deg, transparent, #000);
+  filter: blur(25px);
+  width: 203px;
+  height: 45px;
+  opacity: 0.85;
+}
+.desktop-5-inner {
+  left: 722px;
+}
+.nam-fermentum-posuere10 {
+  display: flex;
+  align-items: flex-end;
+  width: 319px;
+}
+.discover-about3,
+.nam-fermentum-posuere10 {
+  position: relative;
+  line-height: 22px;
+}
+.botn8 {
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-bebas-neue);
+}
+.frame-div {
+  position: absolute;
+  top: -423px;
+  left: 999px;
+  width: 319px;
+  height: 197px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  font-family: var(--font-be-vietnam-pro);
+}
+.frame-item {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-orange);
+  width: 20px;
+  height: 20px;
+}
+.titulo4 {
+  position: relative;
+  line-height: 35px;
+  display: flex;
+  align-items: flex-end;
+  width: 338px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.ellipse-group {
+  width: 368px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.dino4 {
+  color: var(--color-orange);
+}
+.dino4,
+.saurus2 {
+  margin: 0;
+}
+.titulo-txt3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.frame-group,
+.titulo5 {
+  width: 480px;
+  display: flex;
+}
+.titulo5 {
+  position: relative;
+  font-size: var(--font-size-151xl);
+  line-height: 130px;
+  align-items: flex-end;
+}
+.frame-group {
+  position: absolute;
+  top: -483px;
+  left: 34px;
+  height: 457px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+  font-size: var(--font-size-16xl);
+}
+.tyrannosaurus-1-icon2 {
+  position: absolute;
+  top: -610px;
+  left: calc(50% + 276px);
+  width: 551px;
+  height: 551px;
+  object-fit: cover;
+}
+.logo-icon3 {
+  position: relative;
+  width: 100.3px;
+  height: 75px;
+  object-fit: cover;
+}
+.vector-icon5 {
+  position: relative;
+  width: 19px;
+  height: 19px;
+}
+.men3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0;
+  gap: var(--gap-21xl);
+}
+.group-icon9 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.botn9 {
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-11xl);
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-3xl);
+}
+.menu3,
+.texto26,
+.texto7 {
+  position: absolute;
+  display: flex;
+}
+.menu3 {
+  top: -817px;
+  left: calc(50% - 720px);
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1440px;
+  height: 120px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-111xl);
+  font-size: var(--font-size-7xl);
+}
+.texto26,
+.texto7 {
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  width: 469px;
+}
+.texto7 {
+  top: calc(50% - 759px);
+  left: 1500px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto26 {
+  top: calc(50% - 696px);
+  left: 1800px;
+  align-items: center;
+}
+.desktop-5-child1 {
+  position: absolute;
+  bottom: -481px;
+  left: calc(50% - 616px);
+  background: linear-gradient(180.09deg, transparent, #000);
+  width: 1505px;
+  height: 1045px;
+}
+.stones2-icon2 {
+  position: absolute;
+  top: 556px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 468px;
+  object-fit: cover;
+}
+.desktop-5-child2 {
+  position: absolute;
+  top: 708px;
+  left: -192px;
+  background: linear-gradient(180deg, transparent, #000 38.02%);
+  width: 1824px;
+  height: 891px;
+}
+.nam-fermentum-posuere-est-ut-t-parent1,
+.texto27,
+.texto8 {
+  position: absolute;
+  font-family: var(--font-be-vietnam-pro);
+  display: flex;
+}
+.nam-fermentum-posuere-est-ut-t-parent1 {
+  top: 888px;
+  left: 386px;
+  width: 319px;
+  height: 198px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  opacity: 0;
+}
+.texto27,
+.texto8 {
+  line-height: 22px;
+  width: 469px;
+}
+.texto8 {
+  top: calc(50% - 748px);
+  left: 1900px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto27 {
+  top: calc(50% - 685px);
+  left: 1650px;
+  align-items: center;
+}
+.monolophosaurus-1-icon1 {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  width: 1049px;
+  height: 995px;
+  object-fit: cover;
+}
+.age5 {
+  margin: 0;
+  color: var(--color-white);
+}
+.titulo6 {
+  position: absolute;
+  top: calc(50% - 266px);
+  left: 759px;
+  font-size: var(--font-size-151xl);
+  line-height: 145px;
+  display: flex;
+  align-items: flex-end;
+  width: 480px;
+  color: var(--color-orange);
+}
+.gallery-child1 {
+  position: relative;
+  border-radius: var(--br-xs);
+  width: 190px;
+  height: 185px;
+  object-fit: cover;
+}
+.div2 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  width: 83px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.frame,
+.gallery2 {
+  display: flex;
+  align-items: center;
+}
+.frame {
+  border-radius: var(--br-xs);
+  width: 120px;
+  height: 115px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(./public/frame-4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.gallery2 {
+  position: absolute;
+  top: 760px;
+  left: 250px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.group-icon10 {
+  position: relative;
+  width: 35px;
+  height: 35px;
+}
+.tablermeat8 {
+  background-color: var(--color-orange);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm);
+}
+.carnivorous2 {
+  position: relative;
+  line-height: 26px;
+}
+.carnivorus2 {
+  position: absolute;
+  top: 757px;
+  left: 759px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.group-icon11 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+}
+.cretaceus2,
+.meters-long4 {
+  position: absolute;
+  top: 757px;
+  left: 1034px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.cretaceus2 {
+  top: 851px;
+  left: 759px;
+}
+.vector-icon6 {
+  position: relative;
+  width: 32px;
+  height: 36px;
+}
+.texto28,
+.texto9,
+.tons4 {
+  position: absolute;
+  display: flex;
+}
+.tons4 {
+  top: 851px;
+  left: 1034px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.texto28,
+.texto9 {
+  left: 759px;
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  width: 469px;
+}
+.texto9 {
+  top: calc(50% + 49px);
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto28 {
+  top: calc(50% + 112px);
+  align-items: center;
+}
+.majestic-mountain-peak-tranqui-icon1 {
+  position: absolute;
+  top: 1498px;
+  left: -419px;
+  width: 2384px;
+  height: 1363px;
+  object-fit: cover;
+}
+.tyrannosaurus-2-icon1 {
+  position: absolute;
+  top: 2138px;
+  left: calc(50% - 453px);
+  width: 902px;
+  height: 902px;
+  object-fit: cover;
+}
+.desktop-5-child3 {
+  position: absolute;
+  top: 2138px;
+  left: -217px;
+  background: linear-gradient(
+    180deg,
+    transparent,
+    rgba(0, 0, 0, 0.86) 47.4%,
+    #000 78.65%
+  );
+  width: 1910px;
+  height: 789px;
+}
+.about-the-dino1 {
+  color: var(--color-white);
+}
+.titulott1 {
+  position: absolute;
+  top: calc(50% + 1408px);
+  left: calc(50% + 558px);
+  font-size: var(--font-size-151xl);
+  line-height: 130px;
+  text-align: right;
+  display: flex;
+  align-items: flex-end;
+  width: 583px;
+  color: var(--color-orange);
+}
+.discover-about4 {
+  position: relative;
+  line-height: 30px;
+}
+.botn11 {
+  position: absolute;
+  bottom: -1716px;
+  left: calc(50% + 329px);
+  background-color: var(--color-orange);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  font-size: var(--font-size-13xl);
+}
+.group-icon13,
+.vector-icon7 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+.group-icon13 {
+  width: 22px;
+  height: 22px;
+}
+.menu4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1440px;
+  height: 120px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-111xl);
+  font-size: var(--font-size-7xl);
+}
+.desktop-5 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}
+.bg-icon2 {
+  position: absolute;
+  top: -2428px;
+  left: calc(50% - 733px);
+  width: 1870px;
+  height: 1069px;
+  object-fit: cover;
+}
+.component-1-icon1 {
+  position: absolute;
+  top: calc(50% - 2708px);
+  left: calc(50% - 327px);
+  width: 654px;
+  height: 692px;
+  overflow: hidden;
+  mix-blend-mode: overlay;
+}
+.bg-icon3,
+.stones-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.bg-icon3 {
+  top: -1202px;
+  right: -156px;
+  width: 1948px;
+  height: 1113px;
+}
+.stones-icon1 {
+  top: -2168px;
+  left: -52px;
+  width: 1525px;
+  height: 968px;
+}
+.desktop-6-child {
+  position: absolute;
+  bottom: 2168px;
+  left: calc(50% - 752px);
+  background: linear-gradient(180.09deg, transparent, #000 28.49%);
+  width: 1505px;
+  height: 1241px;
+}
+.bg2-icon1 {
+  position: absolute;
+  top: -1461px;
+  left: -172px;
+  width: 1820px;
+  height: 1340px;
+  object-fit: cover;
+}
+.desktop-6-inner,
+.desktop-6-item {
+  position: absolute;
+  top: -1664px;
+  left: 476px;
+  border-radius: 50%;
+  background: linear-gradient(184.02deg, transparent, #000);
+  filter: blur(25px);
+  width: 203px;
+  height: 45px;
+  opacity: 0.85;
+}
+.desktop-6-inner {
+  left: 722px;
+}
+.nam-fermentum-posuere5 {
+  display: flex;
+  align-items: flex-end;
+  width: 319px;
+}
+.discover-about1,
+.nam-fermentum-posuere5 {
+  position: relative;
+  line-height: 22px;
+}
+.botn3 {
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-bebas-neue);
+}
+.nam-fermentum-posuere-est-ut-t-group {
+  position: absolute;
+  top: -1993px;
+  left: 999px;
+  width: 319px;
+  height: 197px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  font-family: var(--font-be-vietnam-pro);
+}
+.frame-child {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-orange);
+  width: 20px;
+  height: 20px;
+}
+.titulo1 {
+  position: relative;
+  line-height: 35px;
+  display: flex;
+  align-items: flex-end;
+  width: 338px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.ellipse-parent {
+  width: 368px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.dino2 {
+  color: var(--color-orange);
+}
+.dino2,
+.saurus1 {
+  margin: 0;
+}
+.frame-parent,
+.titulo2 {
+  width: 480px;
+  display: flex;
+}
+.titulo2 {
+  position: relative;
+  font-size: var(--font-size-151xl);
+  line-height: 130px;
+  align-items: flex-end;
+}
+.frame-parent {
+  position: absolute;
+  top: -2097px;
+  left: 77px;
+  height: 457px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+  font-size: var(--font-size-16xl);
+}
+.tyrannosaurus-1-icon1 {
+  position: absolute;
+  top: -2138px;
+  left: calc(50% + 276px);
+  width: 551px;
+  height: 551px;
+  object-fit: cover;
+}
+.logo-icon1 {
+  position: relative;
+  width: 100.3px;
+  height: 75px;
+  object-fit: cover;
+}
+.vector-icon2 {
+  position: relative;
+  width: 19px;
+  height: 19px;
+}
+.men1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0;
+  gap: var(--gap-21xl);
+}
+.group-icon4 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.botn4 {
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-11xl);
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-3xl);
+}
+.menu1,
+.texto23,
+.texto4 {
+  position: absolute;
+  display: flex;
+}
+.menu1 {
+  top: -2404px;
+  left: calc(50% - 720px);
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1440px;
+  height: 120px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-111xl);
+  font-size: var(--font-size-7xl);
+}
+.texto23,
+.texto4 {
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  width: 469px;
+}
+.texto4 {
+  top: calc(50% - 2379px);
+  left: 1500px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto23 {
+  top: calc(50% - 2316px);
+  left: 1800px;
+  align-items: center;
+}
+.rectangle-div {
+  position: absolute;
+  bottom: 1139px;
+  left: calc(50% - 616px);
+  background: linear-gradient(180.09deg, transparent, #000);
+  width: 1505px;
+  height: 1045px;
+}
+.stones2-icon1 {
+  position: absolute;
+  top: -1063px;
+  left: calc(50% + 754px);
+  width: 1507px;
+  height: 507px;
+  object-fit: cover;
+}
+.desktop-6-child1 {
+  position: absolute;
+  top: -911px;
+  left: -192px;
+  background: linear-gradient(180deg, transparent, #000 38.02%);
+  width: 1824px;
+  height: 891px;
+}
+.nam-fermentum-posuere-est-ut-t-container,
+.texto24,
+.texto5 {
+  position: absolute;
+  font-family: var(--font-be-vietnam-pro);
+  display: flex;
+}
+.nam-fermentum-posuere-est-ut-t-container {
+  top: -732px;
+  left: 386px;
+  width: 319px;
+  height: 198px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+  opacity: 0;
+}
+.texto24,
+.texto5 {
+  line-height: 22px;
+  width: 469px;
+}
+.texto5 {
+  top: calc(50% - 2368px);
+  left: 1900px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto24 {
+  top: calc(50% - 2305px);
+  left: 1650px;
+  align-items: center;
+}
+.monolophosaurus-1-icon {
+  position: absolute;
+  top: -1791px;
+  left: 994px;
+  width: 1502px;
+  height: 1501px;
+  object-fit: cover;
+}
+.age3 {
+  margin: 0;
+  color: var(--color-white);
+}
+.titulo3 {
+  position: absolute;
+  top: calc(50% - 1884px);
+  left: 922px;
+  font-size: var(--font-size-151xl);
+  line-height: 145px;
+  display: flex;
+  align-items: flex-end;
+  width: 480px;
+  color: var(--color-orange);
+}
+.gallery-inner {
+  position: relative;
+  border-radius: var(--br-xs);
+  width: 120px;
+  height: 115px;
+  object-fit: cover;
+}
+.div1 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  width: 83px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.container,
+.gallery1 {
+  display: flex;
+  align-items: center;
+}
+.container {
+  border-radius: var(--br-xs);
+  width: 120px;
+  height: 115px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(./public/frame-4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.gallery1 {
+  position: absolute;
+  top: -990px;
+  left: 243px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.group-icon5 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.tablermeat4 {
+  background-color: var(--color-orange);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm);
+}
+.carnivorous1 {
+  position: relative;
+  line-height: 26px;
+}
+.carnivorus1,
+.cretaceus1,
+.meters-long2 {
+  position: absolute;
+  top: -859px;
+  left: 958px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.cretaceus1,
+.meters-long2 {
+  left: 1233px;
+}
+.cretaceus1 {
+  top: -765px;
+  left: 958px;
+}
+.vector-icon3 {
+  position: relative;
+  width: 32px;
+  height: 36px;
+}
+.texto25,
+.texto6,
+.tons2 {
+  position: absolute;
+  display: flex;
+}
+.tons2 {
+  top: -765px;
+  left: 1233px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-18xl);
+}
+.texto25,
+.texto6 {
+  line-height: 22px;
+  font-family: var(--font-be-vietnam-pro);
+  width: 469px;
+}
+.texto6 {
+  top: calc(50% - 1571px);
+  left: 910px;
+  font-weight: 600;
+  align-items: flex-end;
+}
+.texto25 {
+  top: calc(50% - 1507px);
+  left: 881px;
+  align-items: center;
+}
+.majestic-mountain-peak-tranqui-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2384px;
+  height: 1363px;
+  object-fit: cover;
+}
+.tyrannosaurus-2-icon {
+  position: absolute;
+  top: 158px;
+  left: calc(50% - 451px);
+  width: 902px;
+  height: 902px;
+  object-fit: cover;
+}
+.desktop-6-child2 {
+  position: absolute;
+  top: 532px;
+  left: -217px;
+  background: linear-gradient(
+    180deg,
+    transparent,
+    rgba(0, 0, 0, 0.86) 47.4%,
+    #000 78.65%
+  );
+  width: 1910px;
+  height: 567px;
+}
+.about-the-dino {
+  color: var(--color-white);
+}
+.titulott-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.titulott {
+  position: absolute;
+  top: calc(50% - 296px);
+  left: calc(50% - 32px);
+  font-size: var(--font-size-151xl);
+  line-height: 130px;
+  text-align: right;
+  display: flex;
+  align-items: flex-end;
+  width: 583px;
+  color: var(--color-orange);
+}
+.discover-about2 {
+  position: relative;
+  line-height: 30px;
+}
+.botn6 {
+  position: absolute;
+  bottom: 171px;
+  left: calc(50% + 325px);
+  background-color: var(--color-orange);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-13xl);
+  font-size: var(--font-size-13xl);
+}
+.discover-about2 {
+  color: white; /* Change to the desired color */
+  /* Additional styles if needed */
+}
+.group-icon8,
+.vector-icon4 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+.group-icon8 {
+  width: 22px;
+  height: 22px;
+}
+.menu2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1420px;
+  height: 120px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-111xl);
+  font-size: var(--font-size-7xl);
+}
+.desktop-6 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}
